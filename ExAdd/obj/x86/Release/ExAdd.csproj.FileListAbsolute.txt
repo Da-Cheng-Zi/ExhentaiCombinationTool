@@ -1,0 +1,14 @@
+E:\c++y\ExAdd\ExAdd\bin\x86\Release\ExAdd.exe.config
+E:\c++y\ExAdd\ExAdd\bin\x86\Release\ExAdd.exe
+E:\c++y\ExAdd\ExAdd\bin\x86\Release\ExAdd.pdb
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\MainWindow.g.cs
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\App.g.cs
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd_MarkupCompile.cache
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd_MarkupCompile.lref
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\MainWindow.baml
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd.g.resources
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd.Properties.Resources.resources
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd.csproj.GenerateResource.cache
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd.csproj.CoreCompileInputs.cache
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd.exe
+E:\c++y\ExAdd\ExAdd\obj\x86\Release\ExAdd.pdb
